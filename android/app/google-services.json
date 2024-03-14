@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "622099708370",
+    "project_id": "emindmatterssystem",
+    "storage_bucket": "emindmatterssystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622099708370:android:dca1941410c3db66b1700b",
+        "android_client_info": {
+          "package_name": "com.example.emindmatterssystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxl6qrGiQNdIMBXYmWz8gRa5fu1BHgNPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622099708370:android:42874dcd722e1d08b1700b",
+        "android_client_info": {
+          "package_name": "com.example.emindmatterssystem1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxl6qrGiQNdIMBXYmWz8gRa5fu1BHgNPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
